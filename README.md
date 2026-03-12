@@ -9,6 +9,7 @@
 <p align="center">
   <a href="README.md">🇺🇸 English</a> •
   <a href="README.tr-TR.md">🇹🇷 Türkçe</a> •
+  <a href="README.zh-CN.md">🇨🇳 简体中文</a> •
   <a href="CONTRIBUTING.md#adding-translations">Help to translate</a> •
   <a href="https://crowdin.com/project/rclone-manger">Crowdin</a>
 </p>
