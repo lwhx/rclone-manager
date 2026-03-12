@@ -20,7 +20,7 @@
     "resources": {
       "../resources/i18n": "i18n/"
     },
-    "createUpdaterArtifacts": false,
+    "createUpdaterArtifacts": true,
     "targets": ["nsis", "msi", "dmg", "app", "deb", "rpm", "appimage"],
     "category": "Utility",
     "shortDescription": "User-friendly GUI for RClone",
